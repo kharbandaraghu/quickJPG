@@ -1,0 +1,4 @@
+cffi==1.15.0
+Pillow==9.1.0
+pillow-heif==0.2.3
+pycparser==2.21
